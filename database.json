@@ -441,9 +441,10 @@
       "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/4/637952294132626253_nokia-8210-4g-xanh-5.jpg"
     },
     {
-      "name": "",
-      "price": "",
-      "categoryId": "",
+      "Name": "no no ki a",
+      "Category_ID": 1,
+      "Price": "3700000",
+      "Images": "https://images.samsung.com/is/image/samsung/assets/vn/smartphones/galaxy-a57/buy/2AwesomeLilac.png?imbypass=true",
       "id": 59
     }
   ]

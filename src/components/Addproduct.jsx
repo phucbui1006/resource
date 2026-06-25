@@ -42,6 +42,21 @@ const handleSubmit = async (event) => {
     }
     setValidated(true);
 };
+
+  // const handleSubmit = async (e) => {
+  //   const form = e.currentTarget;
+  //   if (form.checkValidity() === false) {
+  //       e.preventDefault();
+  //       e.stopPropagation();
+  //   } else {
+  //       e.preventDefault();
+  //       await addProduct(product);
+  //       alert('Product added successfully!');
+  //       navigate("/");
+  //   }
+  //   setValidated(true);
+  // }
+
   return (
     <div className="mt-4">
     <h2>Add a new Product</h2>
